@@ -10,7 +10,7 @@ function InterviewCoach() {
   const candidateProfile = {
     job_role: "Backend Developer",
     years_experience: 3,
-    technical_keywords: ["Node", "Express",],
+    technical_keywords: ["Node", "Express"],
     company_type: "MNC",
     interview_round: "Technical Round 1",
     focus_area: "Backend",
